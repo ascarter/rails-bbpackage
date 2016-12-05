@@ -1,0 +1,3 @@
+#INDENT#def #SELECTIONORPLACEHOLDER method_name#(<#* args #>)
+  #PLACEHOLDERSTART#body#PLACEHOLDEREND#
+end

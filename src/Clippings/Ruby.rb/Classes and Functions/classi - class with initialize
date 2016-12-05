@@ -1,0 +1,7 @@
+#INDENT#class #SELECTIONORPLACEHOLDER ClassName# < #PLACEHOLDERSTART#ParentClass#PLACEHOLDEREND#
+	def initialize(<#* args #>)
+	  #PLACEHOLDERSTART#body#PLACEHOLDEREND#
+	end
+	
+	#INSERTION#
+end
