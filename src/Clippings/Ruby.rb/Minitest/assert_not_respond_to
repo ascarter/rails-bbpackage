@@ -1,0 +1,1 @@
+#INDENT#assert_not_respond_to(#PLACEHOLDERSTART#obj#PLACEHOLDEREND#, #PLACEHOLDERSTART#symbol#PLACEHOLDEREND#, <#* msg #>)

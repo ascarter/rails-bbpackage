@@ -1,0 +1,4 @@
+#INDENT#
+assert_nothing_raised do
+  #INSERTION#
+end

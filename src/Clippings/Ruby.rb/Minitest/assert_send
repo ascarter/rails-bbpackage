@@ -1,0 +1,1 @@
+#INDENT#assert_send(#PLACEHOLDERSTART#array#PLACEHOLDEREND#, <#* msg #>)

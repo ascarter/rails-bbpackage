@@ -1,0 +1,4 @@
+#INDENT#
+assert_raises(#PLACEHOLDERSTART#exception1#PLACEHOLDEREND#, #PLACEHOLDERSTART#exception2#PLACEHOLDEREND#, <#* ... #>) do
+  #INSERTION#
+end

@@ -1,0 +1,1 @@
+#INDENT#assert_not_includes(#PLACEHOLDERSTART#collection#PLACEHOLDEREND#, #PLACEHOLDERSTART#obj#PLACEHOLDEREND#, <#* msg #>)

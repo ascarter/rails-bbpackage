@@ -1,0 +1,1 @@
+#INDENT#assert_not_operator(#PLACEHOLDERSTART#obj1#PLACEHOLDEREND#, #PLACEHOLDERSTART#operator#PLACEHOLDEREND#, <#* obj2 #>, <#* msg #>)

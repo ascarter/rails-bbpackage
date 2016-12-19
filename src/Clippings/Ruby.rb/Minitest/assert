@@ -1,0 +1,1 @@
+#INDENT#assert(#PLACEHOLDERSTART#test#PLACEHOLDEREND#, <#* msg #>)

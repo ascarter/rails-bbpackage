@@ -1,4 +1,5 @@
-#INDENT#test "#PLACEHOLDERSTART#test description#PLACEHOLDEREND#" do
+#INDENT#
+test "#PLACEHOLDERSTART#test description#PLACEHOLDEREND#" do
 	#PLACEHOLDERSTART#assert true#PLACEHOLDEREND#
 end
 

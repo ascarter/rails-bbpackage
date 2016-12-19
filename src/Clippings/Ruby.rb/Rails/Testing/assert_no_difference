@@ -1,0 +1,4 @@
+#INDENT#
+assert_no_difference(#PLACEHOLDERSTART#expressions#PLACEHOLDEREND#, <#* message #>) do
+  #INSERTION#
+end

@@ -1,0 +1,1 @@
+#INDENT#assert_not_instance_of(#PLACEHOLDERSTART#class#PLACEHOLDEREND#, #PLACEHOLDERSTART#obj#PLACEHOLDEREND#, <#* msg #>)

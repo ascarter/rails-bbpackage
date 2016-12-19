@@ -1,0 +1,1 @@
+#INDENT#assert_generates(#PLACEHOLDERSTART#expected_path#PLACEHOLDEREND#, #PLACEHOLDERSTART#options#PLACEHOLDEREND#, <#* defaults #>, <#* extras #>, <#* message #>)

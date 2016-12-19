@@ -1,0 +1,4 @@
+#INDENT#
+assert_throws(#PLACEHOLDERSTART#symbol#PLACEHOLDEREND#, <#* msg #>) do
+  #INSERTION#
+end

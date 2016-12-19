@@ -1,0 +1,1 @@
+#INDENT#assert_recognizes(#PLACEHOLDERSTART#expected_options#PLACEHOLDEREND#, #PLACEHOLDERSTART#path#PLACEHOLDEREND#, <#* extras #>, <#* message #>)
